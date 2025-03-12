@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Thriftstore-Services\\UserAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5646116-3CC9-4914-BF14-F25ACA438754}|ThriftStore.UserAuthentication.IAM\\ThriftStore.UserAuthentication.IAM.csproj|c:\\thriftstore-services\\userauthentication\\thriftstore.userauthentication.iam\\data\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5646116-3CC9-4914-BF14-F25ACA438754}|ThriftStore.UserAuthentication.IAM\\ThriftStore.UserAuthentication.IAM.csproj|solutionrelative:thriftstore.userauthentication.iam\\data\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5646116-3CC9-4914-BF14-F25ACA438754}|ThriftStore.UserAuthentication.IAM\\ThriftStore.UserAuthentication.IAM.csproj|c:\\thriftstore-services\\userauthentication\\thriftstore.userauthentication.iam\\validations\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5646116-3CC9-4914-BF14-F25ACA438754}|ThriftStore.UserAuthentication.IAM\\ThriftStore.UserAuthentication.IAM.csproj|solutionrelative:thriftstore.userauthentication.iam\\validations\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5646116-3CC9-4914-BF14-F25ACA438754}|ThriftStore.UserAuthentication.IAM\\ThriftStore.UserAuthentication.IAM.csproj|c:\\thriftstore-services\\userauthentication\\thriftstore.userauthentication.iam\\constants\\modelerrorconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5646116-3CC9-4914-BF14-F25ACA438754}|ThriftStore.UserAuthentication.IAM\\ThriftStore.UserAuthentication.IAM.csproj|solutionrelative:thriftstore.userauthentication.iam\\constants\\modelerrorconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelErrorConstant.cs",
+              "DocumentMoniker": "C:\\Thriftstore-Services\\UserAuthentication\\ThriftStore.UserAuthentication.IAM\\Constants\\ModelErrorConstant.cs",
+              "RelativeDocumentMoniker": "ThriftStore.UserAuthentication.IAM\\Constants\\ModelErrorConstant.cs",
+              "ToolTip": "C:\\Thriftstore-Services\\UserAuthentication\\ThriftStore.UserAuthentication.IAM\\Constants\\ModelErrorConstant.cs",
+              "RelativeToolTip": "ThriftStore.UserAuthentication.IAM\\Constants\\ModelErrorConstant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:46:46.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailValidation.cs",
+              "DocumentMoniker": "C:\\Thriftstore-Services\\UserAuthentication\\ThriftStore.UserAuthentication.IAM\\Validations\\EmailValidation.cs",
+              "RelativeDocumentMoniker": "ThriftStore.UserAuthentication.IAM\\Validations\\EmailValidation.cs",
+              "ToolTip": "C:\\Thriftstore-Services\\UserAuthentication\\ThriftStore.UserAuthentication.IAM\\Validations\\EmailValidation.cs",
+              "RelativeToolTip": "ThriftStore.UserAuthentication.IAM\\Validations\\EmailValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:39:35.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Thriftstore-Services\\UserAuthentication\\ThriftStore.UserAuthentication.IAM\\Data\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "ThriftStore.UserAuthentication.IAM\\Data\\Entities\\Users.cs",
+              "ToolTip": "C:\\Thriftstore-Services\\UserAuthentication\\ThriftStore.UserAuthentication.IAM\\Data\\Entities\\Users.cs",
+              "RelativeToolTip": "ThriftStore.UserAuthentication.IAM\\Data\\Entities\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:31:51.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

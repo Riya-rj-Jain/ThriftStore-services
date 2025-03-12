@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "o921rMahHXY=",
+  "success": true,
+  "projectFilePath": "C:\\Thriftstore-Services\\UserAuthorization\\UserAuthorization\\UserAuthorization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.2\\microsoft.aspnetcore.authorization.9.0.2.nupkg.sha512",
+    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.aspnetcore.metadata\\9.0.2\\microsoft.aspnetcore.metadata.9.0.2.nupkg.sha512",
+    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.2\\microsoft.extensions.logging.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.extensions.options\\9.0.2\\microsoft.extensions.options.9.0.2.nupkg.sha512",
+    "C:\\Users\\riyaj\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512",
+    "C:\\Users\\riyaj\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.2\\system.diagnostics.diagnosticsource.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
