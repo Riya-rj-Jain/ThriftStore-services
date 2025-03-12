@@ -319,6 +319,38 @@ __pycache__/
 # Cake - Uncomment if you are using it
 # tools/**
 # !tools/packages.config
+# Ignore Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.dbmdl
+*.log
+*.bak
+*.ncb
+*.sdf
+*.opendb
+*.VC.db
+
+# Ignore build outputs
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore user-specific files
+*.DS_Store
+*.env
+secrets.json
+appsettings.Development.json
+
+# Ignore coverage and logs
+coverage/
+*.log
+
+# Ignore generated files
+*.dll
+*.exe
+*.pdb
 
 # Tabs Studio
 *.tss
