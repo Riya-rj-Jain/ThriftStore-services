@@ -15,7 +15,7 @@ public class OrRequirementHandler : AuthorizationHandler<OrAuthorizationRequirem
             }
             else if (req is ClientRequirement clientReq)
             {
-                isMet = await IsValidClient(context.User, clientReq);
+                isMet = await IsValidClients(context.User, clientReq);
             }
 
             if (isMet)
