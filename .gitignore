@@ -9,7 +9,12 @@
 *.user
 *.userosscache
 *.sln.docstates
-
+**/obj/
+**/bin/
+**/node_modules/
+**/.vs/
+**/.vscode/
+**/env_variables.yaml
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -400,3 +405,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/UserAuthentication/Thrifstore.UserAuthentication.Services.sln
