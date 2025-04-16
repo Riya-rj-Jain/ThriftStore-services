@@ -8,10 +8,19 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <Compile Remove="Controllers\**" />
+    <Compile Remove="Interface\**" />
+    <Compile Remove="Repositories\**" />
+    <EmbeddedResource Remove="Controllers\**" />
+    <EmbeddedResource Remove="Interface\**" />
+    <EmbeddedResource Remove="Repositories\**" />
+    <None Remove="Controllers\**" />
+    <None Remove="Interface\**" />
+    <None Remove="Repositories\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Data\ViewModel\" />
-    <Folder Include="Interface\" />
-    <Folder Include="Repositories\" />
   </ItemGroup>
 
   <ItemGroup>
