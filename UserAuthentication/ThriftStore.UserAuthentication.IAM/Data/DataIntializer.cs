@@ -22,7 +22,7 @@ namespace ThriftStore.UserAuthentication.IAM.Data
                 {
                     Name = "Admin User",
                     Password = "Riyajain@1257", 
-                    Email = "riya.jain@admin.com",
+                    Email = "riya.jain@thriftstore.com",
                     Username = "admin",
                     IsPrime = "true",
                     CreatedAt = DateTime.UtcNow,

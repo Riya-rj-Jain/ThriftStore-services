@@ -6,10 +6,10 @@ namespace ThriftStore.UserAuthentication.IAM.Data
 {
     public class ApplicationDbContext : DbContext
     {
-        public ApplicationDbContext(DbContextOptions options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+            : base(options)
         {
         }
-
         public DbSet<Users> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
