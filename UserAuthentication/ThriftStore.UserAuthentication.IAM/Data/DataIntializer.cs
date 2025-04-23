@@ -24,7 +24,6 @@ namespace ThriftStore.UserAuthentication.IAM.Data
                     Password = "Riyajain@1257", 
                     Email = "riya.jain@thriftstore.com",
                     Username = "admin",
-                    IsPrime = "true",
                     CreatedAt = DateTime.UtcNow,
                     CreatedBy = "System",
                     UpdatedAt = DateTime.UtcNow,

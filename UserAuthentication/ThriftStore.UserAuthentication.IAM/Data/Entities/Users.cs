@@ -22,7 +22,6 @@ namespace ThriftStore.UserAuthentication.IAM.Data.Entities
         [MaxLength(255)]
         public string? Username { get; set; }  
 
-        public string? IsPrime { get; set; } = "false";  
     }
 }
 

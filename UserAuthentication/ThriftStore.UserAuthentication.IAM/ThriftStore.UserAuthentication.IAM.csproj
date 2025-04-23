@@ -10,15 +10,12 @@
   <ItemGroup>
     <Compile Remove="Controllers\**" />
     <Compile Remove="Data\ViewModel\**" />
-    <Compile Remove="Interface\**" />
     <Compile Remove="Repositories\**" />
     <EmbeddedResource Remove="Controllers\**" />
     <EmbeddedResource Remove="Data\ViewModel\**" />
-    <EmbeddedResource Remove="Interface\**" />
     <EmbeddedResource Remove="Repositories\**" />
     <None Remove="Controllers\**" />
     <None Remove="Data\ViewModel\**" />
-    <None Remove="Interface\**" />
     <None Remove="Repositories\**" />
   </ItemGroup>
 

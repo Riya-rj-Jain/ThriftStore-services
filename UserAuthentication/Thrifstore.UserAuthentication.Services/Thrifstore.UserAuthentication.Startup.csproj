@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ThriftStore.UserAuthentication.IAM\ThriftStore.UserAuthentication.IAM.csproj" />
 	<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.15">
 		  <PrivateAssets>all</PrivateAssets>
