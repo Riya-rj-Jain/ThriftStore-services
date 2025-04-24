@@ -6,5 +6,6 @@ namespace ThriftStore.UserAuthentication.IAM.Interface
     public interface IUserRepository
     {
         Task<IEnumerable<UserViewModel>> GetAllUsersAsync();
+        Task<UserViewModel> GetUserByIdAsync(int id);
     }
 }

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thrifstore.UserAuthentication.Startup", "Thrifstore.UserAuthentication.Services\Thrifstore.UserAuthentication.Startup.csproj", "{E26CB146-1BA3-4188-AA99-18E92E2E76C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thriftstore.UserAuthentication.Startup", "Thrifstore.UserAuthentication.Services\Thriftstore.UserAuthentication.Startup.csproj", "{E26CB146-1BA3-4188-AA99-18E92E2E76C6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThriftStore.UserAuthentication.IAM", "ThriftStore.UserAuthentication.IAM\ThriftStore.UserAuthentication.IAM.csproj", "{F5646116-3CC9-4914-BF14-F25ACA438754}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thriftstore.UserAuthentication.Shared", "Thriftstore.UserAuthentication.shared\Thriftstore.UserAuthentication.Shared.csproj", "{BBE982E4-F562-4ED4-9B47-862CF39401EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thriftstore.UserAuthentication.Shared", "Thriftstore.UserAuthentication.shared\Thriftstore.UserAuthentication.Shared.csproj", "{BBE982E4-F562-4ED4-9B47-862CF39401EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
