@@ -28,7 +28,7 @@ namespace ThriftStore.UserAuthentication.IAM.Data.Repository
             return userViewModels;
         }
 
-        public async Task<UserViewModel> GetUserByIdAsync(int id)
+        public async Task<UserViewModel?> GetUserByIdAsync(int id)
         {
             var user = await _context.Users.FindAsync(id);
 
